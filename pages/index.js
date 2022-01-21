@@ -39,8 +39,8 @@ export default function Home() {
       <div className="background-image">
         <center>
           <h1 className="ricex-logo">
-            Rice<span className="x-color">X</span> Dapp
-            <div className="coming-text">Coming EOY2020</div>
+            Rice<span className="x-color">X</span>
+            <div className="coming-text">DApp Coming EOY2020</div>
           </h1>
           {/* <h1 className="test">Rice Exchange </h1> */}
           <br />
